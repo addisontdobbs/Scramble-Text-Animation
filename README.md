@@ -22,3 +22,7 @@ At set intervals, a random selection of characters changes to new ones with a di
 Smooth transitions interpolate between the current and target colors for a fluid effect.
 
 The canvas automatically adjusts when the window resizes, maintaining proper spacing and alignment.
+
+
+https://github.com/user-attachments/assets/12fec5f9-4b20-475f-ba02-17c118116b43
+
