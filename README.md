@@ -23,6 +23,5 @@ Smooth transitions interpolate between the current and target colors for a fluid
 
 The canvas automatically adjusts when the window resizes, maintaining proper spacing and alignment.
 
-
-https://github.com/user-attachments/assets/12fec5f9-4b20-475f-ba02-17c118116b43
+https://github.com/user-attachments/assets/fa1fdeba-3854-49e8-be74-0a86cf1e6d39
 
